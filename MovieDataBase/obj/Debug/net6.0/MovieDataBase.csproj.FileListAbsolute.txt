@@ -1,0 +1,15 @@
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\bin\Debug\net6.0\MovieDataBase.exe
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\bin\Debug\net6.0\MovieDataBase.deps.json
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\bin\Debug\net6.0\MovieDataBase.runtimeconfig.json
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\bin\Debug\net6.0\MovieDataBase.dll
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\bin\Debug\net6.0\MovieDataBase.pdb
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.csproj.AssemblyReference.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.AssemblyInfoInputs.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.AssemblyInfo.cs
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.csproj.CoreCompileInputs.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.dll
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\obj\Debug\net6.0\refint\MovieDataBase.dll
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.pdb
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.genruntimeconfig.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit4Labs\MovieDataBase\MovieDataBase\obj\Debug\net6.0\ref\MovieDataBase.dll
